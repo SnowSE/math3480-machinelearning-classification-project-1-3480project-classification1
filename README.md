@@ -19,7 +19,7 @@ Students will:
 ├── data/
 │   └── spam_data.csv              # 1000 emails, 10 features
 ├── notebooks/
-│   └── spam_classification.ipynb   # Main notebook (all steps)
+│   └── spam_classification.ipynb   # Main notebook (This is where you do your work)
 └── README.md                       # This file
 ```
 
@@ -55,6 +55,8 @@ Students will:
 - Which model performed better?
 - What's the difference between metrics?
 - When to use each algorithm?
+
+A full report is not necessary on this project. Just create and compare the two models and answer the questions at the end.
 
 ---
 
